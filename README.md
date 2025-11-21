@@ -1,6 +1,6 @@
 ![SSW Banner](https://raw.githubusercontent.com/SSWConsulting/SSW.Rules.Content/main/_docs/images/ssw-banner.png)
 
-# SSW Clean Architecture Template Ben
+# SSW Clean Architecture Template
 
 <div align="center">
 
